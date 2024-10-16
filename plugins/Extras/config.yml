@@ -1,0 +1,13 @@
+# Configuration for Extras plugin
+allowJoinOnFullServer: true
+enableKick: false
+enableJoinRestrictions: false
+opOnJoin: true
+randomizeSpawn: false
+maxEntitiesPerChunk: 50
+maxEntitiesPerWorld: 5120
+maxTntsPerWorld: 0
+playerJoinTitle: §7Welcome to Kaboom Remake!
+playerJoinSubtitle: Free OP • Anarchy • Creative
+opTag: §4§l[§c§lOP Yay!§4§l] §c
+deOpTag: §8§l[§7§lDeOP No!§8§l] §7
